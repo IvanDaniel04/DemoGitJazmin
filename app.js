@@ -5,7 +5,3 @@ btn.addEventListener("click", () => {
   msg.textContent = "Mensaje: Hola desde otra rama";
 });
 
-btn.addEventListener("click", () => {
-  msg.textContent = "Mensaje: Hola desde otra rama";
-});
-
