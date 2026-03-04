@@ -8,3 +8,7 @@ btn.addEventListener("click", () => {
 btn.addEventListener("click", () => {
   msg.textContent = "Mensaje: Conflictos Merge ";
 });
+
+btn.addEventListener("click", () => {
+  msg.textContent = "Mensaje: Conflictos Merge ";
+});
