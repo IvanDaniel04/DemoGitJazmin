@@ -6,5 +6,5 @@ btn.addEventListener("click", () => {
 });
 
 btn.addEventListener("click", () => {
-  msg.textContent = "Mensaje: Nuevo Desde Main";
+  msg.textContent = "Mensaje: Conflictos Merge ";
 });
