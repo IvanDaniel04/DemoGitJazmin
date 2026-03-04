@@ -5,3 +5,6 @@ btn.addEventListener("click", () => {
   msg.textContent = "Mensaje: Ahora de la rama de prueba";
 });
 
+btn.addEventListener("click", () => {
+  msg.textContent = "Mensaje: Nuevo";
+});
